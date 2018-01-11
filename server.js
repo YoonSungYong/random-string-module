@@ -1,4 +1,4 @@
-moudle.exports = {
+module.exports = {
   RandomChar: function (num) {
     var string = "abcdefghijklmnopqrstuvwxyz0123456789";
     var str = '';

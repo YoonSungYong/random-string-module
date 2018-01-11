@@ -3,18 +3,18 @@ A module that returns alphanumeric stings.
 
 ## HOW TO INSTALL
 ```
-npm install random-string-module --save
+npm install yt-random-string-module --save
 ```
 
 ## HOW TO USE
 ```javascript
-var random = require('random-string-module');
+var random = require('yt-random-string-module');
 ```
 
 ## METHOD
 ### RandomChar
 This method takes in an integer value which specifies the length of the returned strings.
 ```javascript
-console.log(random.RAndomChar(10))
+console.log(random.RandomChar(10))
 // Returns b2pfdasf23
 ```

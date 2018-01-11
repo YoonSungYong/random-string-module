@@ -1,6 +1,6 @@
 {
-  "name": "random-string-module",
-  "version": "0.10.0",
+  "name": "yt-random-string-module",
+  "version": "0.10.1",
   "description": "A module that returns alphanumeric strings",
   "main": "server.js",
   "scripts": {
